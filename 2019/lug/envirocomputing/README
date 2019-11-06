@@ -1,0 +1,5 @@
+hi there, thanks for viewing the slides of the talk I gave :)
+I've provided a .ps file for easy consumption, but if you'd like to try out
+the slideshow library of Racket https://racket-lang.org/ you can run
+`racket envirocomputing-nov5.rkt --widescreen` after installing racket,
+`raco pkg install slideshow-text-style` as well as installing the Fira Sans font
