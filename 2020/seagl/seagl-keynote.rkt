@@ -20,16 +20,16 @@
   (pslide (H "The Soul of a Computer")
     (subHH "From silicon and carbon to FLOSS"))
 
+    (pslide 
+        (bitmap "map.png")
+    )
+
   (pslide (h "Daniel Pono Takamori")
     (t "he/him")
 		(t "FOSS person - OSL, The ASF, The LF")
 		(t "like to play go, eat tofu and ride my bike")
 		(t "pono@apache.org, multivariatepolynomial.xyz")
         (t "@onoforpono"))
-
-    (pslide 
-        (bitmap "map.png")
-    )
 
     (slide (h "💡")
         (t "https://native-land.ca")
